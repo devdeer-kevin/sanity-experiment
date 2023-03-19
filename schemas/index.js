@@ -1,3 +1,4 @@
+export const schemaTypes = []
 // schemas/pet.js
 export default {
   name: 'pet',
